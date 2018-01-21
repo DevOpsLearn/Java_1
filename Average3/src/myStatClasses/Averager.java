@@ -53,7 +53,7 @@ public class Averager {
 		}
 		
 		public String toString() {
-			String msg = "";
+			String msg = "Hello \n";
 			msg += "Sum = " + this.getSum() + "\n";
 			msg += "Count = " + this.getCount() + "\n";
 			msg += "Average = " + this.getAverage() + "\n";
